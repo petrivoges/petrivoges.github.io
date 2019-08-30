@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Canon of Scripture: What belongs in the Bible and what does not belong?"
-date:   2019-06-14
+date:   2019-08-30
 permalink: /the-canon-of-scripture/
 categories: chapter-3 canon-of-scripture
 excerpt: The canon of Scripture is the list of all the books that belong in the Bible.
